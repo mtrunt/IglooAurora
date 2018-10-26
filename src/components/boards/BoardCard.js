@@ -110,12 +110,14 @@ class BoardCard extends Component {
                       textDecoration: "none",
                       height: "64px",
                       paddingLeft: "24px",
+                      width: "100%"
                     }
                   : {
                       color: "black",
                       textDecoration: "none",
                       height: "64px",
                       paddingLeft: "24px",
+                      width: "100%"
                     }
               }
             >
